@@ -24,6 +24,7 @@ ios/.xcode.env.local
 package.json
 # Android/IntelliJ
 #
+play-core-native-sdk-1.12.1
 build/
 .idea
 .gradle
